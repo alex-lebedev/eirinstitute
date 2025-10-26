@@ -184,7 +184,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 80px;
+    padding-top: 120px;
     background: linear-gradient(180deg, var(--color-white) 0%, var(--color-earth-light) 100%);
     position: relative;
 }
